@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: aryan-ai-agency
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: MODEL_API_URL
+        sync: false
+      - key: MODEL_API_KEY
+        sync: false
+      - key: MODEL_NAME
+        value: ""

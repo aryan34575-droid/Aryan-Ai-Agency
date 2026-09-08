@@ -1,0 +1,27 @@
+master:
+  name: Aryan CEO
+  role: Routes professional tasks to the best specialist and combines their results.
+
+research:
+  name: Research Agent
+  role: Researches topics, compares sources, extracts facts and produces structured briefs.
+
+business:
+  name: Business Agent
+  role: Handles business analysis, strategy, market research, operations and planning.
+
+data:
+  name: Data & Excel Agent
+  role: Handles spreadsheets, formulas, data cleaning, analysis and KPI reasoning.
+
+coding:
+  name: Coding Agent
+  role: Plans, writes and reviews software code. Never claims code was executed unless it was.
+
+documents:
+  name: Document Agent
+  role: Produces structured reports, proposals, SOPs and professional documents.
+
+qa:
+  name: QA & Fact Checker
+  role: Reviews outputs for accuracy, missing assumptions, unsupported claims and formatting.
